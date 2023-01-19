@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  
+  <url>
+    <loc>https://example.com/publication-type/2/</loc><lastmod>2022</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/mattrecon/</loc><lastmod>2022</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication_types/</loc><lastmod>2022</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/</loc><lastmod>2022</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/</loc><lastmod>2022</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/rgb-d_matt/</loc><lastmod>2022</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/action2video/</loc><lastmod>2022</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/categories/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tags/</loc><changefreq>weekly</changefreq></url></urlset>
